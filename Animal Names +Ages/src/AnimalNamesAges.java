@@ -37,6 +37,6 @@ public class AnimalNamesAges {
 		System.out.println("(2) Average age of all animals: ");
 		System.out.println();
 		System.out.println("The average age is " + totalAge / counter);
-// master branch
+// test branch
 	}
 }
